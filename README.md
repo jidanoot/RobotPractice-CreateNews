@@ -7,3 +7,8 @@ News contains header, content and image. Robot uses data from csv file as header
 
 This project I decide not push Variables.robot because some reason.
 
+Log
+![alt text](https://github.com/jidanoot/RobotPractice-CreateNews/blob/main/image/Report.png)
+
+Report
+![alt text](https://github.com/jidanoot/RobotPractice-CreateNews/blob/main/image/Log.png)
